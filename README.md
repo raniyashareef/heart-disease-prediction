@@ -1,2 +1,36 @@
-# heart-disease-prediction
-Heart disease prediction using machine learning algorithms and medical data
+# Heart Disease Prediction
+
+This machine learning project predicts whether a person has heart disease based on health-related features such as age, cholesterol, chest pain type, and more.
+
+## Dataset
+- 1,025 samples
+- 14 features (categorical and numerical)
+- Target: 0 = no heart disease, 1 = heart disease
+
+## Models Used
+- Logistic Regression
+- Support Vector Machine (SVM)
+- Random Forest (best performing model with 88% accuracy)
+
+## Evaluation Metrics
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- Confusion Matrix
+- ROC Curve
+
+## Tools and Libraries
+- Python
+- scikit-learn
+- pandas, numpy
+- matplotlib, seaborn
+
+## Project File
+- `Heart Disease ML Report.pdf`: Contains the full report with data analysis, model comparison, and results
+
+## Sample Output
+Below is a screenshot showing part of the code and model output used in this project:
+
+![Model Output](heart_output.png)
+
