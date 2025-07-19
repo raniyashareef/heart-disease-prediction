@@ -34,3 +34,9 @@ Below is a screenshot showing part of the code and model output used in this pro
 
 ![Model Output](heart_output.png)
 
+## How to Run this Project
+You can run the notebook on **Google Colab** or your local system.
+
+1. Go to the notebook file: [`heart_disease_prediction_full_dataset.ipynb`](https://github.com/raniyashareef/heart-disease-prediction/blob/main/heart_disease_prediction_full_dataset.ipynb)
+2. Click the **"Open in Colab"** button (or open it manually in Colab)
+3. Run all the cells one by one (Shift + Enter)
