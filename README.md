@@ -26,14 +26,6 @@ This machine learning project predicts whether a person has heart disease based 
 - pandas, numpy
 - matplotlib, seaborn
 
-## Project File
-- `Heart Disease ML Report.pdf`: Contains the full report with data analysis, model comparison, and results
-
-## Sample Output
-Below is a screenshot showing part of the code and model output used in this project:
-
-![Model Output](heart_output.png)
-
 ## How to Run this Project
 You can run the notebook on **Google Colab** or your local system.
 
@@ -41,5 +33,15 @@ You can run the notebook on **Google Colab** or your local system.
 2. Click the **"Open in Colab"** button (or open it manually in Colab)
 3. Run all the cells one by one (Shift + Enter)
 
-> 📝 Note: The PDF report (`Heart Disease ML Report.pdf`) was submitted as part of a short course (AI with Python – Techmaghi).  
-> The Jupyter Notebook (`heart_disease_prediction_full_dataset.ipynb`) is an improved version using the full dataset and Google Colab.
+
+## Project Files
+
+| File | Description |
+|------|-------------|
+| [`heart_disease_prediction_full_dataset.ipynb`](./heart_disease_prediction_full_dataset.ipynb) | Main Jupyter notebook using the **full heart.csv dataset**, built and tested in Google Colab. |
+| [`Heart Disease ML Report.pdf`](./Heart%20Disease%20ML%20Report.pdf) | Academic report submitted for the **Techmaghi “AI with Python” course**, using a **smaller sample** due to compiler limits. |
+| [`heart_output.png`](./heart_output.png) | Screenshot showing model output and confusion matrix. |
+
+> **Note:** The PDF report was submitted earlier as part of a course and uses a small sample dataset.  
+> The notebook (`.ipynb`) is a newer, improved version using the full dataset and modern tools like Google Colab.
+
