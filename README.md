@@ -40,3 +40,6 @@ You can run the notebook on **Google Colab** or your local system.
 1. Go to the notebook file: [`heart_disease_prediction_full_dataset.ipynb`](https://github.com/raniyashareef/heart-disease-prediction/blob/main/heart_disease_prediction_full_dataset.ipynb)
 2. Click the **"Open in Colab"** button (or open it manually in Colab)
 3. Run all the cells one by one (Shift + Enter)
+
+> 📝 Note: The PDF report (`Heart Disease ML Report.pdf`) was submitted as part of a short course (AI with Python – Techmaghi).  
+> The Jupyter Notebook (`heart_disease_prediction_full_dataset.ipynb`) is an improved version using the full dataset and Google Colab.
